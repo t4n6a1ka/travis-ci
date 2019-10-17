@@ -1,4 +1,5 @@
-language: gemfile  
+language: ruby
+         -.gem
 before_install:  
   - phpenv global 7.0
 
